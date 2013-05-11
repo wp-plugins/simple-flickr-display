@@ -1,0 +1,1 @@
+# README for Simple Flickr Display Plugin

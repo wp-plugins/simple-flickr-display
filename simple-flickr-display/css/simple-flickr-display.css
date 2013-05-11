@@ -1,0 +1,24 @@
+/* Flickr widget */
+
+.flickr-photo {
+	list-style: none;
+	float: left; 
+	padding: 2px; 
+	border: 1px solid #D7D7D7; 
+	margin: 0 10px 10px 0;
+	background: #FFF;
+	transition: all 0.3s ease-in-out;
+}
+.flickr-photo:hover {
+	background: #D7D7D7;
+}
+
+.flickr-photo a {
+	display: block;
+	line-height: 0;
+}
+
+.flickr-error {
+	font-weight: bold;
+	color: #f00;
+}
