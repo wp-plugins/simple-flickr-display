@@ -35,5 +35,8 @@ Not currently. This plugin pulls the most recent uploads that the chosen user ha
 
 == Changelog ==
 
+= 1.1 =
+* Core reupload
+
 = 1.0 =
 * First Version
