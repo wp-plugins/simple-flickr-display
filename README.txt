@@ -3,7 +3,7 @@ Contributors: davidjlaietta
 Donate link: http://davidlaietta.com/
 Tags: flickr, images
 Requires at least: 3.1
-Tested up to: 3.9
+Tested up to: 4.3
 Stable tag: 1.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl.html
@@ -36,7 +36,8 @@ Not currently. This plugin pulls the most recent uploads that the chosen user ha
 == Changelog ==
 
 = 1.1 =
-* Core reupload
+* Clarification on public user profiles
+* Formatting of widget inputs updated
 
 = 1.0 =
 * First Version
